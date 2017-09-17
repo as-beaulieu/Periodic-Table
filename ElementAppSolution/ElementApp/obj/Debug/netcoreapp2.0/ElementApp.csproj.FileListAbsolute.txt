@@ -1,0 +1,11 @@
+C:\Dev\ElementAppSolution\ElementApp\obj\Debug\netcoreapp2.0\ElementApp.csprojResolveAssemblyReference.cache
+C:\Dev\ElementAppSolution\ElementApp\obj\Debug\netcoreapp2.0\ElementApp.csproj.CoreCompileInputs.cache
+C:\Dev\ElementAppSolution\ElementApp\obj\Debug\netcoreapp2.0\ElementApp.AssemblyInfoInputs.cache
+C:\Dev\ElementAppSolution\ElementApp\obj\Debug\netcoreapp2.0\ElementApp.AssemblyInfo.cs
+C:\Dev\ElementAppSolution\ElementApp\bin\Debug\netcoreapp2.0\ElementApp.deps.json
+C:\Dev\ElementAppSolution\ElementApp\bin\Debug\netcoreapp2.0\ElementApp.runtimeconfig.json
+C:\Dev\ElementAppSolution\ElementApp\bin\Debug\netcoreapp2.0\ElementApp.runtimeconfig.dev.json
+C:\Dev\ElementAppSolution\ElementApp\bin\Debug\netcoreapp2.0\ElementApp.dll
+C:\Dev\ElementAppSolution\ElementApp\bin\Debug\netcoreapp2.0\ElementApp.pdb
+C:\Dev\ElementAppSolution\ElementApp\obj\Debug\netcoreapp2.0\ElementApp.dll
+C:\Dev\ElementAppSolution\ElementApp\obj\Debug\netcoreapp2.0\ElementApp.pdb
