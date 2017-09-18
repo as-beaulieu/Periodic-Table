@@ -646,6 +646,786 @@ namespace ElementApp
                     State = "Solid",
                     IsStable = true
                 },
+                new Element
+                {
+                    AtomicNumber = 54,
+                    Symbol = "Xe",
+                    Name = "Xeon",
+                    AtomicWeight = 131.293M,
+                    GroupNumber = 18,
+                    Family = "Noble Gasses",
+                    Metallic = "Nonmetal",
+                    State = "Gas",
+                    IsStable = true
+                },
+                new Element
+                {
+                    AtomicNumber = 55,
+                    Symbol = "Cs",
+                    Name = "Caesium",
+                    AtomicWeight = 132.9054519M,
+                    GroupNumber = 1,
+                    Family = "Alkali Metals",
+                    Metallic = "Metal",
+                    State = "Solid",
+                    IsStable = true
+                },
+                new Element
+                {
+                    AtomicNumber = 56,
+                    Symbol = "Ba",
+                    Name = "Barium",
+                    AtomicWeight = 137.327M,
+                    GroupNumber = 2,
+                    Family = "Alkaline Earth Metals",
+                    Metallic = "Metal",
+                    State = "Solid",
+                    IsStable = true
+                },
+                new Element
+                {
+                    AtomicNumber = 57,
+                    Symbol = "La",
+                    Name = "Lanthanum",
+                    AtomicWeight = 138.90547M,
+                    GroupNumber = 0,
+                    Family = "Lanthanoids",
+                    Metallic = "Metal",
+                    State = "Solid",
+                    IsStable = true
+                },
+                new Element
+                {
+                    AtomicNumber = 58,
+                    Symbol = "Ce",
+                    Name = "Cerium",
+                    AtomicWeight = 140.116M,
+                    GroupNumber = 0,
+                    Family = "Lanthanoids",
+                    Metallic = "Metal",
+                    State = "Solid",
+                    IsStable = true
+                },
+                new Element
+                {
+                    AtomicNumber = 59,
+                    Symbol = "Pr",
+                    Name = "Prasedoymium",
+                    AtomicWeight = 140.90765M,
+                    GroupNumber = 0,
+                    Family = "Lanthanoids",
+                    Metallic = "Metal",
+                    State = "Solid",
+                    IsStable = true
+                },
+                new Element
+                {
+                    AtomicNumber = 60,
+                    Symbol = "Nd",
+                    Name = "Neodymium",
+                    AtomicWeight = 144.242M,
+                    GroupNumber = 0,
+                    Family = "Lanthanoids",
+                    Metallic = "Metal",
+                    State = "Solid",
+                    IsStable = true
+                },
+                new Element
+                {
+                    AtomicNumber = 61,
+                    Symbol = "Pm",
+                    Name = "Promethium",
+                    AtomicWeight = 145M,
+                    GroupNumber = 0,
+                    Family = "Lanthanoids",
+                    Metallic = "Metal",
+                    State = "Solid",
+                    IsStable = false
+                },
+                new Element
+                {
+                    AtomicNumber = 62,
+                    Symbol = "Sm",
+                    Name = "Samarium",
+                    AtomicWeight = 150.36M,
+                    GroupNumber = 0,
+                    Family = "Lanthanoids",
+                    Metallic = "Metal",
+                    State = "Solid",
+                    IsStable = true
+                },
+                new Element
+                {
+                    AtomicNumber = 63,
+                    Symbol = "Eu",
+                    Name = "Europium",
+                    AtomicWeight = 151.964M,
+                    GroupNumber = 0,
+                    Family = "Lanthanoids",
+                    Metallic = "Metal",
+                    State = "Solid",
+                    IsStable = true
+                },
+                new Element
+                {
+                    AtomicNumber = 64,
+                    Symbol = "Gd",
+                    Name = "Gadolinium",
+                    AtomicWeight = 157.25M,
+                    GroupNumber = 0,
+                    Family = "Lanthanoids",
+                    Metallic = "Metal",
+                    State = "Solid",
+                    IsStable = true
+                },
+                new Element
+                {
+                    AtomicNumber = 65,
+                    Symbol = "Tb",
+                    Name = "Terbium",
+                    AtomicWeight = 158.92535M,
+                    GroupNumber = 0,
+                    Family = "Lanthanoids",
+                    Metallic = "Metal",
+                    State = "Solid",
+                    IsStable = true
+                },
+                new Element
+                {
+                    AtomicNumber = 66,
+                    Symbol = "Dy",
+                    Name = "Dysprosium",
+                    AtomicWeight = 162.500M,
+                    GroupNumber = 0,
+                    Family = "Lanthanoids",
+                    Metallic = "Metal",
+                    State = "Solid",
+                    IsStable = true
+                },
+                new Element
+                {
+                    AtomicNumber = 67,
+                    Symbol = "Ho",
+                    Name = "Holmium",
+                    AtomicWeight = 164.93032M,
+                    GroupNumber = 0,
+                    Family = "Lanthanoids",
+                    Metallic = "Metal",
+                    State = "Solid",
+                    IsStable = true
+                },
+                new Element
+                {
+                    AtomicNumber = 68,
+                    Symbol = "Er",
+                    Name = "Erbium",
+                    AtomicWeight = 167.259M,
+                    GroupNumber = 0,
+                    Family = "Lanthanoids",
+                    Metallic = "Metal",
+                    State = "Solid",
+                    IsStable = true
+                },
+                new Element
+                {
+                    AtomicNumber = 69,
+                    Symbol = "Tm",
+                    Name = "Thulium",
+                    AtomicWeight = 168.93421M,
+                    GroupNumber = 0,
+                    Family = "Lanthanoids",
+                    Metallic = "Metal",
+                    State = "Solid",
+                    IsStable = true
+                },
+                new Element
+                {
+                    AtomicNumber = 70,
+                    Symbol = "Yb",
+                    Name = "Ytterbium",
+                    AtomicWeight = 173.054M,
+                    GroupNumber = 0,
+                    Family = "Lanthanoids",
+                    Metallic = "Metal",
+                    State = "Solid",
+                    IsStable = true
+                },
+                new Element
+                {
+                    AtomicNumber = 71,
+                    Symbol = "Lu",
+                    Name = "Lutetium",
+                    AtomicWeight = 174.9668M,
+                    GroupNumber = 0,
+                    Family = "Lanthanoids",
+                    Metallic = "Metal",
+                    State = "Solid",
+                    IsStable = true
+                },
+                new Element
+                {
+                    AtomicNumber = 72,
+                    Symbol = "Hf",
+                    Name = "Hafnium",
+                    AtomicWeight = 178.49M,
+                    GroupNumber = 4,
+                    Family = "Transition Metals",
+                    Metallic = "Metal",
+                    State = "Solid",
+                    IsStable = true
+                },
+                new Element
+                {
+                    AtomicNumber = 73,
+                    Symbol = "Ta",
+                    Name = "Tantalum",
+                    AtomicWeight = 180.94788M,
+                    GroupNumber = 5,
+                    Family = "Transition Metals",
+                    Metallic = "Metal",
+                    State = "Solid",
+                    IsStable = true
+                },
+                new Element
+                {
+                    AtomicNumber = 74,
+                    Symbol = "W",
+                    Name = "Tungsten",
+                    AtomicWeight = 183.84M,
+                    GroupNumber = 6,
+                    Family = "Transition Metals",
+                    Metallic = "Metal",
+                    State = "Solid",
+                    IsStable = true
+                },
+                new Element
+                {
+                    AtomicNumber = 75,
+                    Symbol = "Re",
+                    Name = "Rhenium",
+                    AtomicWeight = 186.207M,
+                    GroupNumber = 7,
+                    Family = "Transition Metals",
+                    Metallic = "Metal",
+                    State = "Solid",
+                    IsStable = true
+                },
+                new Element
+                {
+                    AtomicNumber = 76,
+                    Symbol = "Os",
+                    Name = "Osmium",
+                    AtomicWeight = 190.23M,
+                    GroupNumber = 8,
+                    Family = "Transition Metals",
+                    Metallic = "Metal",
+                    State = "Solid",
+                    IsStable = true
+                },
+                new Element
+                {
+                    AtomicNumber = 77,
+                    Symbol = "Ir",
+                    Name = "Iridium",
+                    AtomicWeight = 192.217M,
+                    GroupNumber = 9,
+                    Family = "Transition Metals",
+                    Metallic = "Metal",
+                    State = "Solid",
+                    IsStable = true
+                },
+                new Element
+                {
+                    AtomicNumber = 78,
+                    Symbol = "Pt",
+                    Name = "Platinum",
+                    AtomicWeight = 195.084M,
+                    GroupNumber = 10,
+                    Family = "Transition Metals",
+                    Metallic = "Metal",
+                    State = "Solid",
+                    IsStable = true
+                },
+                new Element
+                {
+                    AtomicNumber = 79,
+                    Symbol = "Au",
+                    Name = "Gold",
+                    AtomicWeight = 196.966569M,
+                    GroupNumber = 11,
+                    Family = "Transition Metals",
+                    Metallic = "Metal",
+                    State = "Solid",
+                    IsStable = true
+                },
+                new Element
+                {
+                    AtomicNumber = 80,
+                    Symbol = "Hg",
+                    Name = "Mercury",
+                    AtomicWeight = 200.59M,
+                    GroupNumber = 12,
+                    Family = "Poor Metals",
+                    Metallic = "Metal",
+                    State = "Liquid",
+                    IsStable = true
+                },
+                new Element
+                {
+                    AtomicNumber = 81,
+                    Symbol = "Tl",
+                    Name = "Thallium",
+                    AtomicWeight = 204.3833M,
+                    GroupNumber = 13,
+                    Family = "Poor Metals",
+                    Metallic = "Metal",
+                    State = "Solid",
+                    IsStable = true
+                },
+                new Element
+                {
+                    AtomicNumber = 82,
+                    Symbol = "Pb",
+                    Name = "Lead",
+                    AtomicWeight = 207.2M,
+                    GroupNumber = 14,
+                    Family = "Poor Metals",
+                    Metallic = "Metal",
+                    State = "Solid",
+                    IsStable = true
+                },
+                new Element
+                {
+                    AtomicNumber = 83,
+                    Symbol = "Bi",
+                    Name = "Bismuth",
+                    AtomicWeight = 208.98040M,
+                    GroupNumber = 15,
+                    Family = "Poor Metals",
+                    Metallic = "Metal",
+                    State = "Solid",
+                    IsStable = true
+                },
+                new Element
+                {
+                    AtomicNumber = 84,
+                    Symbol = "Po",
+                    Name = "Polonium",
+                    AtomicWeight = 208.9824M,
+                    GroupNumber = 16,
+                    Family = "Poor Metals",
+                    Metallic = "Metalloid",
+                    State = "Solid",
+                    IsStable = false
+                },
+                new Element
+                {
+                    AtomicNumber = 85,
+                    Symbol = "At",
+                    Name = "Astatine",
+                    AtomicWeight = 209.9871M,
+                    GroupNumber = 17,
+                    Family = "Poor Metals",
+                    Metallic = "Metal",
+                    State = "Solid",
+                    IsStable = false
+                },
+                new Element
+                {
+                    AtomicNumber = 86,
+                    Symbol = "Rn",
+                    Name = "Radon",
+                    AtomicWeight = 222.0176M,
+                    GroupNumber = 18,
+                    Family = "Noble Gasses",
+                    Metallic = "Nonmetal",
+                    State = "Gas",
+                    IsStable = false
+                },
+                new Element
+                {
+                    AtomicNumber = 87,
+                    Symbol = "Fr",
+                    Name = "Francium",
+                    AtomicWeight = 223M,
+                    GroupNumber = 1,
+                    Family = "Alkali Metals",
+                    Metallic = "Metal",
+                    State = "Solid",
+                    IsStable = false
+                },
+                new Element
+                {
+                    AtomicNumber = 88,
+                    Symbol = "Ra",
+                    Name = "Radium",
+                    AtomicWeight = 226M,
+                    GroupNumber = 2,
+                    Family = "Alkaline Earth Metals",
+                    Metallic = "Metal",
+                    State = "Solid",
+                    IsStable = false
+                },
+                new Element
+                {
+                    AtomicNumber = 89,
+                    Symbol = "Ac",
+                    Name = "Actinium",
+                    AtomicWeight = 227M,
+                    GroupNumber = 0,
+                    Family = "Actinoids",
+                    Metallic = "Metal",
+                    State = "Solid",
+                    IsStable = false
+                },
+                new Element
+                {
+                    AtomicNumber = 90,
+                    Symbol = "Th",
+                    Name = "Thorium",
+                    AtomicWeight = 232.03806M,
+                    GroupNumber = 0,
+                    Family = "Actinoids",
+                    Metallic = "Metal",
+                    State = "Solid",
+                    IsStable = true
+                },
+                new Element
+                {
+                    AtomicNumber = 91,
+                    Symbol = "Pa",
+                    Name = "Protactinium",
+                    AtomicWeight = 231.03588M,
+                    GroupNumber = 0,
+                    Family = "Actinoids",
+                    Metallic = "Metal",
+                    State = "Solid",
+                    IsStable = true
+                },
+                new Element
+                {
+                    AtomicNumber = 92,
+                    Symbol = "U",
+                    Name = "Uranium",
+                    AtomicWeight = 238.02891M,
+                    GroupNumber = 0,
+                    Family = "Actinoids",
+                    Metallic = "Metal",
+                    State = "Solid",
+                    IsStable = true
+                },
+                new Element
+                {
+                    AtomicNumber = 93,
+                    Symbol = "Np",
+                    Name = "Neptunium",
+                    AtomicWeight = 237M,
+                    GroupNumber = 0,
+                    Family = "Actinoids",
+                    Metallic = "Metal",
+                    State = "Solid",
+                    IsStable = false
+                },
+                new Element
+                {
+                    AtomicNumber = 94,
+                    Symbol = "Pu",
+                    Name = "Plutonium",
+                    AtomicWeight = 244M,
+                    GroupNumber = 0,
+                    Family = "Actinoids",
+                    Metallic = "Metal",
+                    State = "Solid",
+                    IsStable = false
+                },
+                new Element
+                {
+                    AtomicNumber = 95,
+                    Symbol = "Am",
+                    Name = "Americium",
+                    AtomicWeight = 243M,
+                    GroupNumber = 0,
+                    Family = "Actinoids",
+                    Metallic = "Metal",
+                    State = "Solid",
+                    IsStable = false
+                },
+                new Element
+                {
+                    AtomicNumber = 96,
+                    Symbol = "Cm",
+                    Name = "Curium",
+                    AtomicWeight = 247M,
+                    GroupNumber = 0,
+                    Family = "Actinoids",
+                    Metallic = "Metal",
+                    State = "Solid",
+                    IsStable = false
+                },
+                new Element
+                {
+                    AtomicNumber = 97,
+                    Symbol = "Bk",
+                    Name = "Berkelium",
+                    AtomicWeight = 247M,
+                    GroupNumber = 0,
+                    Family = "Actinoids",
+                    Metallic = "Metal",
+                    State = "Solid",
+                    IsStable = false
+                },
+                new Element
+                {
+                    AtomicNumber = 98,
+                    Symbol = "Cf",
+                    Name = "Californium",
+                    AtomicWeight = 251M,
+                    GroupNumber = 0,
+                    Family = "Actinoids",
+                    Metallic = "Metal",
+                    State = "Solid",
+                    IsStable = false
+                },
+                new Element
+                {
+                    AtomicNumber = 99,
+                    Symbol = "Es",
+                    Name = "Einsteinium",
+                    AtomicWeight = 252M,
+                    GroupNumber = 0,
+                    Family = "Actinoids",
+                    Metallic = "Metal",
+                    State = "Solid",
+                    IsStable = false
+                },
+                new Element
+                {
+                    AtomicNumber = 100,
+                    Symbol = "Fm",
+                    Name = "Fermium",
+                    AtomicWeight = 257M,
+                    GroupNumber = 0,
+                    Family = "Actinoids",
+                    Metallic = "Metal",
+                    State = "Solid",
+                    IsStable = false
+                },
+                new Element
+                {
+                    AtomicNumber = 101,
+                    Symbol = "Md",
+                    Name = "Mendelevium",
+                    AtomicWeight = 258M,
+                    GroupNumber = 0,
+                    Family = "Actinoids",
+                    Metallic = "Metal",
+                    State = "Solid",
+                    IsStable = false
+                },
+                new Element
+                {
+                    AtomicNumber = 102,
+                    Symbol = "No",
+                    Name = "Nobelium",
+                    AtomicWeight = 259M,
+                    GroupNumber = 0,
+                    Family = "Actinoids",
+                    Metallic = "Metal",
+                    State = "Solid",
+                    IsStable = false
+                },
+                new Element
+                {
+                    AtomicNumber = 103,
+                    Symbol = "Lr",
+                    Name = "Lawrencium",
+                    AtomicWeight = 262M,
+                    GroupNumber = 0,
+                    Family = "Actinoids",
+                    Metallic = "Metal",
+                    State = "Solid",
+                    IsStable = false
+                },
+                new Element
+                {
+                    AtomicNumber = 104,
+                    Symbol = "Rf",
+                    Name = "Rutherfordium",
+                    AtomicWeight = 261M,
+                    GroupNumber = 4,
+                    Family = "Transition Metals",
+                    Metallic = "Metal",
+                    State = "Unknown",
+                    IsStable = false
+                },
+                new Element
+                {
+                    AtomicNumber = 105,
+                    Symbol = "Db",
+                    Name = "Dubnium",
+                    AtomicWeight = 262M,
+                    GroupNumber = 5,
+                    Family = "Transition Metals",
+                    Metallic = "Metal",
+                    State = "Unknown",
+                    IsStable = false
+                },
+                new Element
+                {
+                    AtomicNumber = 106,
+                    Symbol = "Sg",
+                    Name = "Seaborgium",
+                    AtomicWeight = 266M,
+                    GroupNumber = 6,
+                    Family = "Transition Metals",
+                    Metallic = "Metal",
+                    State = "Unknown",
+                    IsStable = false
+                },
+                new Element
+                {
+                    AtomicNumber = 107,
+                    Symbol = "Bh",
+                    Name = "Bohrium",
+                    AtomicWeight = 264M,
+                    GroupNumber = 7,
+                    Family = "Transition Metals",
+                    Metallic = "Metal",
+                    State = "Unknown",
+                    IsStable = false
+                },
+                new Element
+                {
+                    AtomicNumber = 108,
+                    Symbol = "Hs",
+                    Name = "Hassium",
+                    AtomicWeight = 277M,
+                    GroupNumber = 8,
+                    Family = "Transition Metals",
+                    Metallic = "Metal",
+                    State = "Unknown",
+                    IsStable = false
+                },
+                new Element
+                {
+                    AtomicNumber = 109,
+                    Symbol = "Mt",
+                    Name = "Meitnerium",
+                    AtomicWeight = 268M,
+                    GroupNumber = 9,
+                    Family = "Transition Metals",
+                    Metallic = "Metal",
+                    State = "Unknown",
+                    IsStable = false
+                },
+                new Element
+                {
+                    AtomicNumber = 110,
+                    Symbol = "Ds",
+                    Name = "Darmstadtium",
+                    AtomicWeight = 271M,
+                    GroupNumber = 10,
+                    Family = "Transition Metals",
+                    Metallic = "Metal",
+                    State = "Unknown",
+                    IsStable = false
+                },
+                new Element
+                {
+                    AtomicNumber = 111,
+                    Symbol = "Rg",
+                    Name = "Roentgenium",
+                    AtomicWeight = 272M,
+                    GroupNumber = 11,
+                    Family = "Transition Metals",
+                    Metallic = "Metal",
+                    State = "Unknown",
+                    IsStable = false
+                },
+                new Element
+                {
+                    AtomicNumber = 112,
+                    Symbol = "Uub",
+                    Name = "Ununbium",
+                    AtomicWeight = 285M,
+                    GroupNumber = 12,
+                    Family = "Poor Metals",
+                    Metallic = "Metal",
+                    State = "Unknown",
+                    IsStable = false
+                },
+                new Element
+                {
+                    AtomicNumber = 113,
+                    Symbol = "Uut",
+                    Name = "Ununtrium",
+                    AtomicWeight = 284M,
+                    GroupNumber = 13,
+                    Family = "Poor Metals",
+                    Metallic = "Metal",
+                    State = "Unknown",
+                    IsStable = false
+                },
+                new Element
+                {
+                    AtomicNumber = 114,
+                    Symbol = "Uuq",
+                    Name = "Ununquadium",
+                    AtomicWeight = 289M,
+                    GroupNumber = 14,
+                    Family = "Poor Metals",
+                    Metallic = "Metal",
+                    State = "Unknown",
+                    IsStable = false
+                },
+                new Element
+                {
+                    AtomicNumber = 115,
+                    Symbol = "Uup",
+                    Name = "Ununpentium",
+                    AtomicWeight = 288M,
+                    GroupNumber = 15,
+                    Family = "Poor Metals",
+                    Metallic = "Metal",
+                    State = "Unknown",
+                    IsStable = false
+                },
+                new Element
+                {
+                    AtomicNumber = 116,
+                    Symbol = "Uuh",
+                    Name = "Ununhexium",
+                    AtomicWeight = 292M,
+                    GroupNumber = 16,
+                    Family = "Poor Metals",
+                    Metallic = "Metal",
+                    State = "Unknown",
+                    IsStable = false
+                },
+                new Element
+                {
+                    AtomicNumber = 117,
+                    Symbol = "Uus",
+                    Name = "Ununseptium",
+                    AtomicWeight = 0M,
+                    GroupNumber = 17,
+                    Family = "Unknown",
+                    Metallic = "Unknown",
+                    State = "Unknown",
+                    IsStable = false
+                },
+                new Element
+                {
+                    AtomicNumber = 118,
+                    Symbol = "Uuo",
+                    Name = "Ununoctium",
+                    AtomicWeight = 294M,
+                    GroupNumber = 18,
+                    Family = "Noble Gasses",
+                    Metallic = "Nonmetal",
+                    State = "Unknown",
+                    IsStable = false
+                },
             };
             //End of data
             return elements;
