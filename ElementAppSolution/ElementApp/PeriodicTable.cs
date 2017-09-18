@@ -502,6 +502,150 @@ namespace ElementApp
                     State = "Solid",
                     IsStable = true
                 },
+                new Element
+                {
+                    AtomicNumber = 42,
+                    Symbol = "Mo",
+                    Name = "Molybdenum",
+                    AtomicWeight = 95.96M,
+                    GroupNumber = 6,
+                    Family = "Transition Metals",
+                    Metallic = "Metal",
+                    State = "Solid",
+                    IsStable = true
+                },
+                new Element
+                {
+                    AtomicNumber = 43,
+                    Symbol = "Tc",
+                    Name = "Technetium",
+                    AtomicWeight = 97.9072M,
+                    GroupNumber = 7,
+                    Family = "Transition Metals",
+                    Metallic = "Metal",
+                    State = "Solid",
+                    IsStable = false
+                },
+                new Element
+                {
+                    AtomicNumber = 44,
+                    Symbol = "Ru",
+                    Name = "Ruthenium",
+                    AtomicWeight = 101.07M,
+                    GroupNumber = 8,
+                    Family = "Transition Metals",
+                    Metallic = "Metal",
+                    State = "Solid",
+                    IsStable = true
+                },
+                new Element
+                {
+                    AtomicNumber = 45,
+                    Symbol = "Rh",
+                    Name = "Rhodium",
+                    AtomicWeight = 102.90550M,
+                    GroupNumber = 9,
+                    Family = "Transition Metals",
+                    Metallic = "Metal",
+                    State = "Solid",
+                    IsStable = true
+                },
+                new Element
+                {
+                    AtomicNumber = 46,
+                    Symbol = "Pd",
+                    Name = "Palladium",
+                    AtomicWeight = 106.42M,
+                    GroupNumber = 10,
+                    Family = "Transition Metals",
+                    Metallic = "Metal",
+                    State = "Solid",
+                    IsStable = true
+                },
+                new Element
+                {
+                    AtomicNumber = 47,
+                    Symbol = "Ag",
+                    Name = "Silver",
+                    AtomicWeight = 107.8682M,
+                    GroupNumber = 11,
+                    Family = "Transition Metals",
+                    Metallic = "Metal",
+                    State = "Solid",
+                    IsStable = true
+                },
+                new Element
+                {
+                    AtomicNumber = 48,
+                    Symbol = "Cd",
+                    Name = "Cadmium",
+                    AtomicWeight = 112.411M,
+                    GroupNumber = 12,
+                    Family = "Null",
+                    Metallic = "Metal",
+                    State = "Solid",
+                    IsStable = true
+                },
+                new Element
+                {
+                    AtomicNumber = 49,
+                    Symbol = "In",
+                    Name = "Indium",
+                    AtomicWeight = 114.818M,
+                    GroupNumber = 13,
+                    Family = "Null",
+                    Metallic = "Metal",
+                    State = "Solid",
+                    IsStable = true
+                },
+                new Element
+                {
+                    AtomicNumber = 50,
+                    Symbol = "Sn",
+                    Name = "Tin",
+                    AtomicWeight = 118.710M,
+                    GroupNumber = 14,
+                    Family = "Null",
+                    Metallic = "Metal",
+                    State = "Solid",
+                    IsStable = true
+                },
+                new Element
+                {
+                    AtomicNumber = 51,
+                    Symbol = "Sb",
+                    Name = "Antimony",
+                    AtomicWeight = 121.760M,
+                    GroupNumber = 15,
+                    Family = "Null",
+                    Metallic = "Metalloid",
+                    State = "Solid",
+                    IsStable = true
+                },
+                new Element
+                {
+                    AtomicNumber = 52,
+                    Symbol = "Te",
+                    Name = "Tellurium",
+                    AtomicWeight = 127.60M,
+                    GroupNumber = 16,
+                    Family = "Null",
+                    Metallic = "Nonmetal",
+                    State = "Solid",
+                    IsStable = true
+                },
+                new Element
+                {
+                    AtomicNumber = 53,
+                    Symbol = "I",
+                    Name = "Iodine",
+                    AtomicWeight = 126.90447M,
+                    GroupNumber = 17,
+                    Family = "Halogens",
+                    Metallic = "Nonmetal",
+                    State = "Solid",
+                    IsStable = true
+                },
             };
             //End of data
             return elements;
